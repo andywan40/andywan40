@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my personal website in React
+- 🔭 I’m currently working on my foodpicker app in React
 - 🌱 I’m currently learning Python with Django
 - 📫 How to reach me: andywan40@gmail.com
 - 😄 Please visit my website: https://andywan40.github.io/react-personal-website/
@@ -11,6 +11,9 @@
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=andywan40&repo=WannaBuy&show_owner=true)](https://github.com/andywan40/WannaBuy)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=andywan40&repo=react-personal-website&show_owner=true)](https://github.com/andywan40/react-personal-website)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=andywan40&repo=react-personal-website-backend&show_owner=true)](https://github.com/andywan40/react-personal-website-backend)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=andywan40&repo=react-foodpicker-app&show_owner=true)](https://github.com/andywan40/react-foodpicker-app)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=andywan40&repo=react-foodpicker-app-backend&show_owner=true)](https://github.com/andywan40/react-foodpicker-app-backend)
+
 <!--
 **andywan40/andywan40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
