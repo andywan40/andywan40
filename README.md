@@ -26,7 +26,7 @@ otherlinks) -->
 <img align="left" alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 <br>
 <br>
-
+<br>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=andywan40&layout=compact)
 <br>
 
