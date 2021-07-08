@@ -22,11 +22,17 @@ otherlinks) -->
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img align="left" alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img align="left" alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 <br>
 <br>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=andywan40&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=andywan40&layout=compact)
+<br>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=andywan40&theme=highcontrast&show_icons=true&count_private=true)
+<br>
+
 
 <!-- [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=andywan40&repo=WannaBuy&show_owner=true)](https://github.com/andywan40/WannaBuy)
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=andywan40&repo=react-personal-website&show_owner=true)](https://github.com/andywan40/react-personal-website)
