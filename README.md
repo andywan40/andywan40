@@ -28,7 +28,6 @@ otherlinks) -->
 <img align="left" alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
 <br>
 <br>
-<br>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=andywan40&layout=compact)
 <br>
