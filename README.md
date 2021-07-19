@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on my foodpicker app in React
-- 🌱 I’m currently learning Python with Django
+- 🌱 I’m currently learning Python with Flask
 - 📫 How to reach me: andywan40@gmail.com
 - 😄 Please visit my website: https://andywan40.github.io/react-personal-website/
 
