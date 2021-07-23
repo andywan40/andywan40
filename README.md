@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 👀 Just finished building my new portfolio website in Next.js and Tailwind CSS
 - 🔭 I’m currently working on my foodpicker app in React
-- 🌱 I’m currently learning Python with Flask
+- 🌱 I’m currently learning Python with Django
 - 📫 How to reach me: andywan40@gmail.com
 - 😄 Please visit my website: https://andrew-wan.vercel.app
 
