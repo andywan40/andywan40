@@ -14,7 +14,7 @@
 <br>
 
 ## Technologies and Tools I Use 🛠
-<img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=Javascript&logoColor=%23F7DF1E" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=Javascript&logoColor=%23F7DF1E" />
 <img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=plastic&logo=React&logoColor=%2361DAFB" />
 <img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=Vuedotjs&logoColor=4FC08D" />
 <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=Html5&logoColor=white" />
