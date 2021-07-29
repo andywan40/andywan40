@@ -4,14 +4,15 @@
 - 🌱 I’m currently learning Python with Django
 - 📫 How to reach me: andywan40@gmail.com
 - 😄 Please visit my website: https://andrew-wan.vercel.app
+- 🤩 Fun fact: I love 🐶🦔🐢
 
-## Connect with me
+## Connect With Me 😎
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/and-wan)
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/and__wan)
 <br>
 <br>
 
-## Skills
+## Technologies and Tools I Use 🛠
 <img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="vue" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vue-dot-js&logoColor=%234FC08D" />
@@ -27,11 +28,11 @@
 <br>
 <br>
 
-## Top Languages 
+## Top Languages 🚀
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=andywan40&layout=compact)
 <br>
 
-## Github Stats
+## Github Stats 🎈
 ![Github stats](https://github-readme-stats.vercel.app/api?username=andywan40&theme=highcontrast&show_icons=true&count_private=true)
 <br>
 
