@@ -24,9 +24,8 @@
 <img align="left" alt="python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white" />
 <img align="left" alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white" />
 <img align="left" alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white" />
-
-
-<!-- https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white -->
+<img align="left" alt="next-js" src="https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+<img align="left" alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 <br>
 <br>
 <br>
