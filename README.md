@@ -14,11 +14,11 @@
 <br>
 
 ## Technologies and Tools I Use 🛠
-<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" />
-<img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img align="left" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" />
+<img align="left" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=Javascript&logoColor=%23F7DF1E" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=React&logoColor=%2361DAFB" />
+<img align="left" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=Vuedotjs&logoColor=4FC08D" />
+<img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=Html5&logoColor=white" />
+<img align="left" alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=Css3&logoColor=white" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat&logo=node.js&logoColor=white" />
 <img align="left" alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white" />
