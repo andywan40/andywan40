@@ -10,7 +10,7 @@
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/and-wan)
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" />](https://www.instagram.com/and__wan)
 [<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" />]
-(https://github.com/andywan40)
+(https://www.github.com/andywan40)
 
 <br>
 <br>
