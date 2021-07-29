@@ -14,18 +14,18 @@
 <br>
 
 ## Technologies and Tools I Use 🛠
-<img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=Javascript&logoColor=%23F7DF1E" />
-<img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=plastic&logo=React&logoColor=%2361DAFB" />
-<img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=Vuedotjs&logoColor=4FC08D" />
-<img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=Html5&logoColor=white" />
-<img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=Css3&logoColor=white" />
-<img alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=plastic&logo=node.js&logoColor=white" />
-<img alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" />
-<img alt="python" src="https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />
-<img alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white" />
-<img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white" />
-<img alt="next-js" src="https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" />
-<img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />
+[<img alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=Javascript&logoColor=%23F7DF1E" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=plastic&logo=React&logoColor=%2361DAFB" />](https://reactjs.org/)
+[<img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=Vuedotjs&logoColor=4FC08D" />](https://vuejs.org/)
+[<img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=Html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=Css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=plastic&logo=node.js&logoColor=white" />](https://nodejs.org/en/)
+[<img alt="expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" />](https://expressjs.com/)
+[<img alt="python" src="https://img.shields.io/badge/python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />](https://www.python.org/)
+[<img alt="jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white" />](https://jquery.com/)
+[<img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white" />](https://redux.js.org/)
+[<img alt="next-js" src="https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" />](https://nextjs.org/)
+[<img alt="tailwind-css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" />](https://tailwindcss.com/)
 <br>
 <br>
 <br>
