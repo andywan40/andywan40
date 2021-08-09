@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👀 Just finished building my new portfolio website in Next.js and Tailwind CSS
-- 🔭 I’m currently working on my foodpicker app in React and a password manager in Django
+- 🔭 I’m currently working on my foodpicker app in React and a password manager in Next.js and Django
 - 🌱 I’m currently learning Python with Django
 - 📫 How to reach me: andywan40@gmail.com
 - 😄 Please visit my website: https://andrew-wan.vercel.app
