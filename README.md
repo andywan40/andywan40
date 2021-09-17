@@ -1,10 +1,10 @@
 ### Hi there 👋
-- 👀 Just finished building my new portfolio website in Next.js and Tailwind CSS
-- 🔭 I’m currently working on my foodpicker app in React and a password manager in Next.js and Django
-- 🌱 I’m currently learning Python with Django
-- 📫 How to reach me: andywan40@gmail.com
-- 😄 Please visit my website: https://andrew-wan.vercel.app
-- 🤩 Fun fact: I love 🐶🦔🐢
+- 👀  Just finished building my new portfolio website in Next.js and Tailwind CSS
+- 🔭  I’m currently working on my foodpicker app in React and a password manager in Next.js and Django
+- 🌱  I’m currently learning Python with Django
+- 📫  How to reach me: andywan40@gmail.com
+- 😄  Please visit my website: https://andrew-wan.vercel.app
+- 👻  Fun fact: I love 🐢
 
 ## Connect With Me 😎
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/and-wan)
