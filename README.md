@@ -1,14 +1,12 @@
 ### Hi there 👋
+- 🌱  I’m currently pursuing my master's degree in computer science at UCSD
 - 👀  Just finished building my new portfolio website in Next.js and Tailwind CSS
 - 🔭  I’m currently working on my foodpicker app in React and a password manager in Next.js and Django
-- 🌱  I’m currently taking a course on self-driving cars
 - 📫  How to reach me: andywan40@gmail.com
 - 😄  Please visit my website: https://andrew-wan.vercel.app
-- 👻  Fun fact: I love 🐢
 
 ## Connect With Me 😎
 [<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/and-wan)
-[<img alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" />](https://www.instagram.com/and__wan)
 [<img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" />](https://www.github.com/andywan40)
 <br>
 <br>
