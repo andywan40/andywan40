@@ -1,8 +1,7 @@
 ### Hi there 👋
-- 🌱  I’m currently pursuing my master's degree in computer science at UCSD
+- 🌱  I recently graduated from UCSD with a master's degree in computer science
 - 👀  Just finished building my new portfolio website in Next.js and Tailwind CSS
 - 🔭  I’m currently working on my foodpicker app in React and a password manager in Next.js and Django
-- 📫  How to reach me: andywan40@gmail.com
 - 😄  Please visit my website: https://andrew-wan.vercel.app
 
 ## Connect With Me 😎
